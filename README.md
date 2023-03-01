@@ -1,4 +1,4 @@
-# Case-ViewFactor-OpenFAM-v2206
+# Case-ViewFactor-OpenFOAM-v2206
 This is the OpenFoam v2206 seting of a Vacuum Radiation Test case
 
 This is the case of a 2D thermally-driven square cavity with gray and diffuse walls. The case is solved in transient regime using the buoyantPimpleFoam solver. 
